@@ -1,0 +1,16 @@
+font:
+  size: 17
+
+window:
+  dimensions:
+    columns: 100 
+    lines: 30
+
+colors:
+  primary:
+    background: '0x000000'
+    foreground: '0xffffff'
+
+
+env:
+  TERM: xterm-256color
